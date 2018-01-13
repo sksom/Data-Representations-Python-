@@ -1,0 +1,1 @@
+Since we already have labels available with us for each corresponding data point, hence we can use supervised learning here. Therefore, I would recommend using the output of the program 5 i.e. Scatter3.py's output(with minimization of the ratio of between-class scatter and Within-class scatter) to be most appropriate for Machine Learning.
